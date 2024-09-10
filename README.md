@@ -1,24 +1,22 @@
-# Web Dev Starter Code
+# CS408 Lab 3
 
 ## Overview
 
-TODO: Write a project description
+This project creates a formatted webpage primarily using Cascading Style Sheets (CSS).
+This project uses a variety of CSS selectors and styling options.
+
+## Usage
+
+From within the project directory run the following command:
+
+`code .`
+
+Open "index.html" from the file explorer window and use the
+Visual Studio Code command palette (F1) to run the Live Preview Server.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+- [MDN](https://developer.mozilla.org/en-US/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Shane Panter: Web Dev Starter](https://github.com/shanep/web-dev-starter)
+- [W3C Validator](https://validator.w3.org/nu/)
